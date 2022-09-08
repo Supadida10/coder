@@ -3,7 +3,7 @@
 INDONESIA
 
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="" tvg-logo="https://i.postimg.cc/sXr34VpV/Round-Photo-Aug212022-064124.png" group-title="INDONESIA",TVRI NASIONAL
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -26,7 +26,7 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/qvzLQhn4/Round-Photo-Aug212022-065658.png" group-title="INDONESIA",SCTV
-https://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.postimg.cc/pd6R3fbL/Round-Photo-Aug212022-065936.png" group-title="INDONESIA",INDOSIAR
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/lokal/indosiar
@@ -66,10 +66,10 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w800799030_b3840
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1525611229_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/Wb1jpYN1/Round-Photo-Aug212022-072912.png" group-title="INDONESIA",RTV
-https://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
+http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mDBJXhhg/Round-Photo-Aug212022-073105.png" group-title="INDONESIA",TVRI SPORT
-https://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="" tvg-logo="https://i.postimg.cc/wvr5tGKY/Round-Photo-Aug212022-073455.png" group-title="INDONESIA",MOJI TV
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/lokal/ochanneldukunetdahluapainnih.m3u8
