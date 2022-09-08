@@ -2,17 +2,17 @@
 
 INDONESIA
 
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="" tvg-logo="https://i.postimg.cc/sXr34VpV/Round-Photo-Aug212022-064124.png" group-title="INDONESIA",TVRI NASIONAL
+#EXTINF:-0 tvg-id="TVRINasional.id" tvg-name="" tvg-logo="https://i.postimg.cc/sXr34VpV/Round-Photo-Aug212022-064124.png" group-title="INDONESIA",TVRI NASIONAL
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="" tvg-logo="https://i.postimg.cc/XvKR39Cb/Round-Photo-Aug212022-064414.png" group-title="INDONESIA",RCTI
+#EXTINF:-0 tvg-id="RCTI.id" tvg-name="" tvg-logo="https://i.postimg.cc/XvKR39Cb/Round-Photo-Aug212022-064414.png" group-title="INDONESIA",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV.id" tvg-logo="https://i.postimg.cc/pXn1RKw6/Round-Photo-Aug212022-064638.png" group-title="INDONESIA",MNCTV
+#EXTINF:-0 tvg-id="MNCTV.id" tvg-name="MNCTV.id" tvg-logo="https://i.postimg.cc/pXn1RKw6/Round-Photo-Aug212022-064638.png" group-title="INDONESIA",MNCTV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -138,138 +138,138 @@ https://v2.siar.us/aditv/livestream/playlist.m3u8
 
 MOVIES & ENTERTAINMENT
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HLXwM5c7/Round-Photo-Jul072022-134457.png" group-title="MOVIES & ENTERTAINMENT",KBS WORLD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6qL8b6tr/Round-Photo-Sep082022-225153.png" group-title="MOVIES & ENTERTAINMENT",KBS WORLD
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fW6NVXQs/Round-Photo-Jul072022-134759.png" group-title="MOVIES & ENTERTAINMENT",K+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HLCfdpgc/Round-Photo-Sep082022-225416.png" group-title="MOVIES & ENTERTAINMENT",K+
 https://mdllogistik.my.id/tetes/redir.php?acesso=d608dfcb29c6c8fbd2681ded992cb58b&usuario=b1d6083cffd84b8ab16d046783930ef9
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="AXNIndonesia.id" tvg-name="" tvg-logo="https://i.postimg.cc/2SkfnVny/Round-Photo-Jul092022-110115.png" group-title="MOVIES & ENTERTAINMENT",AXN
+#EXTINF:0 tvg-id="AXNIndonesia.id" tvg-name="" tvg-logo="https://i.postimg.cc/YCxJr5qd/Round-Photo-Sep082022-225542.png" group-title="MOVIES & ENTERTAINMENT",AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="CelestialClassicMovies.hk" tvg-name="" tvg-logo="https://i.postimg.cc/0N3RgnFK/Round-Photo-Jul092022-110229.png" group-title="MOVIES & ENTERTAINMENT"CELESTIAL CLASSIC MOVIES
+#EXTINF:0 tvg-id="CelestialClassicMovies.hk" tvg-name="" tvg-logo="https://i.postimg.cc/65WVsggW/Round-Photo-Sep082022-225653.png" group-title="MOVIES & ENTERTAINMENT"CELESTIAL CLASSIC MOVIES
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="CelestialMoviesIndonesia.id" tvg-name="" tvg-logo="https://i.postimg.cc/135LfbZN/Round-Photo-Jul092022-110349.png" group-title="MOVIES & ENTERTAINMENT",CELESTIAL MOVIES
+#EXTINF:0 tvg-id="CelestialMoviesIndonesia.id" tvg-name="" tvg-logo="https://i.postimg.cc/WzJBsthZ/Round-Photo-Sep082022-225837.png" group-title="MOVIES & ENTERTAINMENT",CELESTIAL MOVIES
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wMqkw82X/Round-Photo-Jul092022-110511.png" group-title="MOVIES & ENTERTAINMENT",CINEMA WORLD
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7YwFFPq5/Round-Photo-Sep082022-225950.png" group-title="MOVIES & ENTERTAINMENT",CINEMA WORLD
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="CinemaxSingapore.sg" tvg-name="" tvg-logo="https://i.postimg.cc/rmk6Fsyq/Round-Photo-Jul092022-111157.png" group-title="MOVIES & ENTERTAINMENT",CINEMAX ASIA
+#EXTINF:0 tvg-id="CinemaxSingapore.sg" tvg-name="" tvg-logo="https://i.postimg.cc/kgtk0T25/Round-Photo-Sep082022-230651.png" group-title="MOVIES & ENTERTAINMENT",CINEMAX ASIA
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="FMN.id" tvg-name="" tvg-logo="https://i.postimg.cc/MGt0XrqX/Round-Photo-Jul092022-111346.png" group-title="MOVIES & ENTERTAINMENT",FMN
+#EXTINF:0 tvg-id="FMN.id" tvg-name="" tvg-logo="https://i.postimg.cc/FFBChj5k/Round-Photo-Sep082022-230826.png" group-title="MOVIES & ENTERTAINMENT",FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="HBOSingapore.sg" tvg-name="" tvg-logo="https://i.postimg.cc/cLhT8Jcs/Round-Photo-Jul092022-111455.png" group-title="MOVIES & ENTERTAINMENT",HBO
+#EXTINF:0 tvg-id="HBOSingapore.sg" tvg-name="" tvg-logo="https://i.postimg.cc/nhY6VC18/Round-Photo-Sep082022-230938.png" group-title="MOVIES & ENTERTAINMENT",HBO
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="HBOFamilyAsia.sg" tvg-logo="https://i.postimg.cc/GhcyTxgy/Round-Photo-Jul092022-111733.png" group-title="MOVIES & ENTERTAINMENT",HBO FAMILY
+#EXTINF:0 tvg-id="" tvg-name="HBOFamilyAsia.sg" tvg-logo="https://i.postimg.cc/vZcVbVyT/Round-Photo-Sep082022-231301.png" group-title="MOVIES & ENTERTAINMENT",HBO FAMILY
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="HBOHitsAsia.sg" tvg-name="" tvg-logo="https://i.postimg.cc/JzS0xNxK/Round-Photo-Jul092022-111907.png" group-title="MOVIES & ENTERTAINMENT",HBO HITS
+#EXTINF:0 tvg-id="HBOHitsAsia.sg" tvg-name="" tvg-logo="https://i.postimg.cc/Y2v04wVD/Round-Photo-Sep082022-231522.png" group-title="MOVIES & ENTERTAINMENT",HBO HITS
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="HBOSignatureAsia.sg" tvg-name="" tvg-logo="https://i.postimg.cc/LX9p35cN/Round-Photo-Jul092022-112039.png" group-title="MOVIES & ENTERTAINMENT",HBO SIGNATURE
+#EXTINF:0 tvg-id="HBOSignatureAsia.sg" tvg-name="" tvg-logo="https://i.postimg.cc/nrbyc7NJ/Round-Photo-Sep082022-231705.png" group-title="MOVIES & ENTERTAINMENT",HBO SIGNATURE
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="Hits.sg" tvg-name="" tvg-logo="https://i.postimg.cc/8P2gnZ8F/Round-Photo-Jul092022-112149.png" group-title="MOVIES & ENTERTAINMENT",HITS
+#EXTINF:0 tvg-id="Hits.sg" tvg-name="" tvg-logo="https://i.postimg.cc/fLhCVKWB/Round-Photo-Sep082022-231827.png" group-title="MOVIES & ENTERTAINMENT",HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="HitsMovies.sg" tvg-name="" tvg-logo="https://i.postimg.cc/ThMngB76/Round-Photo-Jul092022-033320.png" group-title="MOVIES & ENTERTAINMENT",HITS MOVIES
+#EXTINF:0 tvg-id="HitsMovies.sg" tvg-name="" tvg-logo="https://i.postimg.cc/5yXXbccG/Round-Photo-Sep082022-232019.png" group-title="MOVIES & ENTERTAINMENT",HITS MOVIES
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="Kix.hk" tvg-name="" tvg-logo="https://i.postimg.cc/qRNd5S73/Round-Photo-Jul092022-112617.png" group-title="MOVIES & ENTERTAINMENT",KIX
+#EXTINF:0 tvg-id="Kix.hk" tvg-name="" tvg-logo="https://i.postimg.cc/fLGVz2wR/Round-Photo-Sep082022-232216.png" group-title="MOVIES & ENTERTAINMENT",KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/59BQ1SZ1/Round-Photo-Aug142022-175305.png" group-title="MOVIES & ENTERTAINMENT",CHINESE DRAMA
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zX9xm8ms/Round-Photo-Sep082022-232358.png" group-title="MOVIES & ENTERTAINMENT",CHINESE DRAMA
 http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="Thrill.hk" tvg-name="" tvg-logo="https://i.postimg.cc/hvR315Qg/Round-Photo-Jul092022-112851.png" group-title="MOVIES & ENTERTAINMENT",THRILL
+#EXTINF:0 tvg-id="Thrill.hk" tvg-name="" tvg-logo="https://i.postimg.cc/4dDQDQqz/Round-Photo-Sep082022-232551.png" group-title="MOVIES & ENTERTAINMENT",THRILL
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="TVNAsia.hk" tvg-name="" tvg-logo="https://i.postimg.cc/653C1hVN/Round-Photo-Jul092022-113243.png" group-title="MOVIES & ENTERTAINMENT",TVN ASIA
+#EXTINF:0 tvg-id="TVNAsia.hk" tvg-name="" tvg-logo="https://i.postimg.cc/jSnd56FW/Round-Photo-Sep082022-232722.png" group-title="MOVIES & ENTERTAINMENT",TVN ASIA
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="TVNMovies.hk" tvg-name="" tvg-logo="https://i.postimg.cc/MT9vyhFf/Round-Photo-Jul092022-113340.png" group-title="MOVIES & ENTERTAINMENT",TVN MOVIES
+#EXTINF:0 tvg-id="TVNMovies.hk" tvg-name="" tvg-logo="https://i.postimg.cc/2Sxm3HxS/Round-Photo-Sep082022-232836.png" group-title="MOVIES & ENTERTAINMENT",TVN MOVIES
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="WarnerTVSoutheastAsia.us" tvg-name="" tvg-logo="https://i.postimg.cc/fLywhk8k/Round-Photo-Jul092022-113506.png" group-title="MOVIES & ENTERTAINMENT",WARNER TV
+#EXTINF:0 tvg-id="WarnerTVSoutheastAsia.us" tvg-name="" tvg-logo="https://i.postimg.cc/Z5WF5gmr/Round-Photo-Sep082022-233013.png" group-title="MOVIES & ENTERTAINMENT",WARNER TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="ZeeBioskop.id" tvg-name="" tvg-logo="https://i.postimg.cc/90T0vrfZ/Round-Photo-Jul092022-113639.png" group-title="MOVIES & ENTERTAINMENT",ZEE BIOSKOP
+#EXTINF:0 tvg-id="ZeeBioskop.id" tvg-name="" tvg-logo="https://i.postimg.cc/g0kw0L81/Round-Photo-Sep082022-233150.png" group-title="MOVIES & ENTERTAINMENT",ZEE BIOSKOP
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mZ76mmg6/Round-Photo-Jul092022-100649.png" group-title="MOVIES & ENTERTAINMENT",XING XONG TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Kz2HLFvX/Round-Photo-Sep082022-233355.png" group-title="MOVIES & ENTERTAINMENT",XING XONG TV
 https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="VisionPrime.id" tvg-name="" tvg-logo="https://i.postimg.cc/Gp1C541k/Round-Photo-Jul092022-100530.png" group-title="MOVIES & ENTERTAINMENT",VISION PRIME
+#EXTINF:0 tvg-id="VisionPrime.id" tvg-name="" tvg-logo="https://i.postimg.cc/N0w4CDhm/Round-Photo-Sep082022-233513.png" group-title="MOVIES & ENTERTAINMENT",VISION PRIME
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="LifestyleFashion.id" tvg-name="" tvg-logo="https://i.postimg.cc/kXZgMMWH/Round-Photo-Jul092022-092922.png" group-title="MOVIES & ENTERTAINMENT",LIFESTYLE & FASHION
+#EXTINF:0 tvg-id="LifestyleFashion.id" tvg-name="" tvg-logo="https://i.postimg.cc/gkH8kW1X/Round-Photo-Sep082022-233625.png" group-title="MOVIES & ENTERTAINMENT",LIFESTYLE & FASHION
 https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="LifetimeAsia.us" tvg-name="" tvg-logo="https://i.postimg.cc/tJJ9y8Jy/Round-Photo-Jul092022-093053.png" group-title="MOVIES & ENTERTAINMENT",LIFE TIME
+#EXTINF:0 tvg-id="LifetimeAsia.us" tvg-name="" tvg-logo="https://i.postimg.cc/52tY4FwT/Round-Photo-Sep082022-233919.png" group-title="MOVIES & ENTERTAINMENT",LIFE TIME
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="MShopSignature.id" tvg-name="" tvg-logo="https://i.postimg.cc/Y9nwX83P/Round-Photo-Jul092022-093237.png" group-title="MOVIES & ENTERTAINMENT",M SHOP SIGNATURE
+#EXTINF:0 tvg-id="MShopSignature.id" tvg-name="" tvg-logo="https://i.postimg.cc/4yNZ6pNT/Round-Photo-Sep082022-234031.png" group-title="MOVIES & ENTERTAINMENT",M SHOP
 https://liveanevia.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mDzG5C52/Round-Photo-Jul092022-093820.png" group-title="MOVIES & ENTERTAINMENT",ENTERTAINMENT
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HxnBbxDh/Round-Photo-Sep082022-234302.png" group-title="MOVIES & ENTERTAINMENT",ENTERTAINMENT
 https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="Entertainment.id" tvg-name="" tvg-logo="https://i.postimg.cc/SsKBzChf/Round-Photo-Jul092022-093626.png" group-title="MOVIES & ENTERTAINMENT",Ie INFOTAINMENT
+#EXTINF:0 tvg-id="Entertainment.id" tvg-name="" tvg-logo="https://i.postimg.cc/4xXMmXdr/Round-Photo-Sep082022-234451.png" group-title="MOVIES & ENTERTAINMENT",Ie INFOTAINMENT
 https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
