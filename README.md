@@ -1,6 +1,9 @@
 
 
 INDONESIA
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
 
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="" tvg-logo="https://i.postimg.cc/sXr34VpV/Round-Photo-Aug212022-064124.png" group-title="INDONESIA",TVRI NASIONAL
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
@@ -502,17 +505,17 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2496000_slENG.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RZtQr1DV/Round-Photo-Aug212022-193116.png" group-title="SPORTS",BEIN PREMIUM 1 AR
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ad2017.vhls.ru.com/lb/premium98/index.m3u8
+https://webui.vhls.ru.com/lb/premium98/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nzFPcSy1/Round-Photo-Aug212022-193334.png" group-title="SPORTS",BEIN PREMIUM 2 AR
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ad2017.vhls.ru.com/lb/premium99/index.m3u8
+https://webui.vhls.ru.com/lb/premium99/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qRgyB8vF/Round-Photo-Aug212022-193847.png" group-title="SPORTS",BEIN PREMIUM 3 AR
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/cdn4/premium100/tracks-v1a1/mono.m3u8
+https://webui.vhls.ru.com/lb/premium100/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.postimg.cc/Bv7m642Q/Round-Photo-Aug212022-194104.png" group-title="SPORTS",BEIN SPORT 1 AR
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
@@ -578,19 +581,19 @@ https://zcri.vhls.ru.com/lb/premium42/index.m3u8
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.postimg.cc/Bv7m642Q/Round-Photo-Aug212022-194104.png" group-title="SPORTS",BEIN SPORT 1 ENG
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium61/index.m3u8
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beineng1
 
 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://i.postimg.cc/25WxzhjT/Round-Photo-Aug212022-194348.png" group-title="SPORTS",BEIN SPORT 2 ENG
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium62/index.m3u8
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beineng2
 
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://i.postimg.cc/262LmSW2/Round-Photo-Aug212022-194535.png" group-title="SPORTS",BEIN SPOR5 3 ENG
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium63/index.m3u8
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/beineng3
 
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.postimg.cc/t4gwkSqf/Round-Photo-Aug212022-201134.png" group-title="SPORTS",TENNIS CHANNEL
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
@@ -646,32 +649,31 @@ https://zcri.vhls.ru.com/lb/premium33/index.m3u8
 #EXTINF:-1 tvg-id="ArenaPremium1.rs" tvg-logo="https://i.postimg.cc/DwdZ2fC5/a2696.png" group-title="SPORTS",ARENA 1 PREMIUM
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium134/index.m3u8
+https://ad2017.vhls.ru.com/lb/premium429/index.m3u8
 
 #EXTINF:-1 tvg-id="ArenaPremium2.rs" tvg-logo="https://i.postimg.cc/CLwMcpMq/a2697.png" group-title="SPORTS",ARENA 2 PREMIUM
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium135/index.m3u8
+https://zcri.vhls.ru.com/lb/premium135/index.m3u8
 
 #EXTINF:-1 tvg-id="ArenaPremium3.rs" tvg-logo="https://i.postimg.cc/T3F6MzxQ/tv-station-rs-arena-premium-3-2698.png" group-title="SPORTS",ARENA 3 PREMIUM
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium139/index.m3u8
+https://ad2017.vhls.ru.com/lb/premium434/index.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-logo="https://i.postimg.cc/s2Y06qgM/tv-station-supersport-seven-297.png" group-title="SPORTS",SUPER SPORT LALIGA
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium415/index.m3u8
+https://zcri.vhls.ru.com/lb/premium415/index.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://i.postimg.cc/WbZmwr33/tv-station-supersport-nine-299.png" group-title="SPORTS",SUPER SPORT PREMIER LEAGUE
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium414/index.m3u8
-
+https://zcri.vhls.ru.com/lb/premium414/index.m3u8
 #EXTINF:-1 tvg-id="SuperSportMaximo1.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="SPORTS",SUPER SPORTS MAXIMO 1
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium572/index.m3u8
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/supermaximo
 
 #EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-logo="https://i.postimg.cc/mZv7KZph/a665.png" group-title="SPORTS",SUPER SPORTS TENNIS
 #EXTVLCOPT:http-referrer=https://olacast.live/
@@ -846,14 +848,14 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.ibb.co/CVtMtm0/0x0-modified.png" group-title="SPORTS",ESPN USA
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium44/index.m3u8
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/espn
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://i.ibb.co/ZHbHK1Z/Desain-tanpa-judul-44-modified.png" group-title="SPORTS",ESPN 2 USA
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium45/index.m3u8
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/espn2
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fLJXtBbv/Round-Photo-Jul242022-031508.png" group-title="SPORTS",TUDN USA
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
@@ -938,12 +940,12 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://i.ibb.co/3zy7XK7/GRftj-RV6-400x400-modified.png" group-title="SPORTS",FOX SPORTS US
 #EXTVLCOPT:http-referrer=https://vikistream.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://webui.vhls.ru.com/lb/premium39/index.m3u8
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/foxsport
 
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://i.ibb.co/vdCs13m/Desain-tanpa-judul-66-modified.png" group-title="SPORTS",FOX SPORTS 2 US
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium40/index.m3u8
+#EXTVLCOPT:http-referrer=https://vikistream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/foxsport2
 
 #EXTINF:-1 tvg-id="PremierSports1.ie" tvg-logo="https://i.ibb.co/x6FVNJ6/Desain-tanpa-judul-2022-07-13-T131855-982-modified.png" group-title="SPORTS",PREMIER SPORTS 1
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
@@ -951,9 +953,9 @@ https://webui.vhls.ru.com/lb/premium40/index.m3u8
 https://ad2017.vhls.ru.com/lb/premium451/index.m3u8
 
 #EXTINF:-1 tvg-id="PremierSports2.ie" tvg-logo="https://i.ibb.co/Wc8CVzC/Desain-tanpa-judul-2022-07-13-T131908-813-modified.png" group-title="SPORTS",PREMIER SPORTS 2
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://noob4cast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://ad2017.vhls.ru.com/lb/premium550/index.m3u8
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/premiersport2
 
 #EXTINF:-1 tvg-id="CanalPlusSportPoland.pl" tvg-logo="https://i.ibb.co/1rz97mP/Desain-tanpa-judul-67-modified.png" group-title="SPORTS",CANAL+ SPORT POLAND
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
@@ -997,44 +999,84 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://ad2017.vhls.ru.com/lb/premium445/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN2Spain.uk" group-title="SPORTS" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN 2
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium446/index.m3u8
+https://zcri.vhls.ru.com/lb/premium446/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN3Spain.uk" group-title="SPORTS" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN 3
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium447/index.m3u8
+https://zcri.vhls.ru.com/lb/premium447/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN4Spain.uk" group-title="SPORTS" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN 4
-#EXTVLCOPT:http-referrer=https://streamservice.click/
+#EXTVLCOPT:http-referrer=https://streamservice.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium448/index.m3u8
+https://zcri.vhls.ru.com/lb/premium448/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZNF1.es" group-title="SPORTS" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN F1
-#EXTVLCOPT:http-referrer=https://streamservice.click/
+#EXTVLCOPT:http-referrer=https://streamservice.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium537/index.m3u8
+https://zcri.vhls.ru.com/lb/premium537/index.m3u8
 
 #EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-logo="https://i.ibb.co/GvSdq1H/tv-station-ziggo-racing-288-modified.png" group-title="SPORTS",ZIGGO SPORT RACING
-#EXTVLCOPT:http-referrer=https://streamservice.click/
+#EXTVLCOPT:http-referrer=https://streamservice.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium396/index.m3u8
+https://zcri.vhls.ru.com/lb/premium396/index.m3u8
 
 #EXTINF:-1 tvg-id="ZiggoSportDocu.nl" tvg-logo="https://i.ibb.co/fCXZ93k/tv-station-ziggo-docu-290-modified.png" group-title="SPORTS",ZIGGO SPORTS DOCU
-#EXTVLCOPT:http-referrer=https://streamservice.click/
+#EXTVLCOPT:http-referrer=https://streamservice.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium383/index.m3u8
+https://zcri.vhls.ru.com/lb/premium383/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.ibb.co/bHpS560/tv-station-tsn1-188-modified.png" group-title="SPORTS",TSN 1
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/tsn
+
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://i.ibb.co/jv34JSP/tv-station-tsn2-189-modified.png" group-title="SPORTS",TSN 2
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/tsn2
+
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://i.ibb.co/QKZsGD8/tv-station-tsn3-190-modified.png" group-title="SPORTS",TSN 3
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/tsn3
+
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://i.ibb.co/bHcR77q/tv-station-tsn4-191-modified.png" group-title="SPORTS",TSN 4
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/tsn4
+
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.ibb.co/k02Xmx9/tv-station-tsn5-192-modified.png" group-title="SPORTS",TSN 5
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/tsn5
 
 #EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-logo="https://i.ibb.co/cF5CFB0/tv-station-ziggo-select-285-modified.png" group-title="SPORTS",ZIGGO SPORT SELECT
-#EXTVLCOPT:http-referrer=https://streamservice.click/
+#EXTVLCOPT:http-referrer=https://streamservice.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://zcri.vhls.ru.com/lb/premium393/index.m3u8
 
 #EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://i.ibb.co/SrTd4yV/tv-station-ziggo-voetbal-286-modified.png" group-title="SPORTS",ZIGGO SPORT VOTEBALL
-#EXTVLCOPT:http-referrer=https://streamservice.click/
+#EXTVLCOPT:http-referrer=https://streamservice.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium398/index.m3u8
+https://zcri.vhls.ru.com/lb/premium398/index.m3u8
+
+#EXTINF:-1 tvg-id="SetantaSportsGeorgia.ge" tvg-logo="https://i.ibb.co/ryh8LFW/download-36-removebg-preview-modified.png" group-title="SPORTS",SETANTA SPORTS 1
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/setanta1
+
+#EXTINF:-1 tvg-id="SetantaSportsPlusGeorgia.ge" tvg-logo="https://i.ibb.co/bKyszhD/227-removebg-preview-modified.png" group-title="SPORTS",SETANTA SPORTS 2
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/setanta2
+
+#EXTINF:-1  tvg-id="DubaiRacing.ae" tvg-logo="https://i.ibb.co/ZGDnWXf/Mt-LT3-bc-400x400-modified.png" group-title="SPORTS",DUBAI RACING 1
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/dubairacing.m3u8
+
+#EXTINF:-1  tvg-id="DubaiRacing2.ae" tvg-logo="https://i.ibb.co/ZGDnWXf/Mt-LT3-bc-400x400-modified.png" group-title="SPORTS",DUBAI RACING 2
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/dubairacing2.m3u8
+
+#EXTINF:-1  tvg-id="DubaiRacing3.ae" tvg-logo="https://i.ibb.co/ZGDnWXf/Mt-LT3-bc-400x400-modified.png" group-title="SPORTS",DUBAI RACING 3
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/dubairacing3.m3u8
 
 WORLD
 
@@ -1260,6 +1302,3 @@ https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDrago
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/pVY4p35D/Round-Photo-Sep042022-075358.png" group-title="WORLD",JIANGSU TV
 https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
-
-LIVE EVENT
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/pVY4p35D/Round-Photo-Sep042022-075358.png" group-title="LIVE EVENT",
