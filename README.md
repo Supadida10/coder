@@ -1,4 +1,4 @@
-
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/qa/bein.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/mk/maxtvgo.mk.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml"
 
 INDONESIA
 
@@ -29,7 +29,7 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.postimg.cc/pd6R3fbL/Round-Photo-Aug212022-065936.png" group-title="INDONESIA",INDOSIAR
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/lokal/indosiar
+http://tvn.x10.mx/live/master.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/sg2FyMJQ/Round-Photo-Aug212022-070413.png" group-title="INDONESIA",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w35916090_b744100_sleng.m3u8
@@ -959,10 +959,15 @@ https://webui.vhls.ru.com/lb/premium439/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webui.vhls.ru.com/lb/premium440/index.m3u8
 
-#EXTINF:-1 tvg-id="moviestarlaliga.es" tvg-logo="https://i.postimg.cc/3RWt94HG/tv-station-orange-sport-2-1514.png" group-title="SPORTS",MOVIESTAR LALIGA 1
+#EXTINF:-1 tvg-id="moviestarlaliga.es" tvg-logo="https://i.postimg.cc/ZRTWLv86/tv-station-movistar-laliga-1-1835.png" group-title="SPORTS",MOVIESTAR LALIGA 1
 #EXTVLCOPT:http-referrer=https://leetcdn.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ad20171.vhls.ru.com/cdn/myfeed98/index.m3u8
+https://ad20171.vhls.ru.com/cdn/myfeed60/index.m3u8
+
+#EXTINF:-1 tvg-id="moviestarlaliga.es" tvg-logo="https://i.postimg.cc/ZRTWLv86/tv-station-movistar-laliga-1-1835.png" group-title="SPORTS",MOVIESTAR LALIGA 1
+#EXTVLCOPT:http-referrer=https://leetcdn.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ad20171.vhls.ru.com/cdn/myfeed60/index.m3u8
 
 WORLD
 
