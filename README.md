@@ -959,10 +959,10 @@ https://webui.vhls.ru.com/lb/premium439/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webui.vhls.ru.com/lb/premium440/index.m3u8
 
-#EXTINF:-1 tvg-id="orangesport3.ro" tvg-logo="https://i.postimg.cc/3RWt94HG/tv-station-orange-sport-2-1514.png" group-title="SPORTS",ORANGE SPORT 3
-#EXTVLCOPT:http-referrer=https://streamservice.click/
+#EXTINF:-1 tvg-id="moviestarlaliga.es" tvg-logo="https://i.postimg.cc/3RWt94HG/tv-station-orange-sport-2-1514.png" group-title="SPORTS",MOVIESTAR LALIGA 1
+#EXTVLCOPT:http-referrer=https://leetcdn.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium441/index.m3u8
+https://ad20171.vhls.ru.com/cdn/myfeed98/index.m3u8
 
 WORLD
 
