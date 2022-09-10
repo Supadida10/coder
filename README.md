@@ -3,7 +3,7 @@
 INDONESIA
 
 #EXTINF:-0 tvg-id="TVRINasional.id" tvg-name="" tvg-logo="https://i.postimg.cc/sXr34VpV/Round-Photo-Aug212022-064124.png" group-title="INDONESIA",TVRI NASIONAL
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2446503011668def857b1c03bafabba51
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -80,7 +80,7 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 
 #EXTINF:-1 tvg-id="magna.id" tvg-name="" tvg-logo="https://i.postimg.cc/rFDVCZvY/Round-Photo-Aug212022-074310.png" group-title="INDONESIA",MAGNA CHANNEL
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1629413329_b2692000_sleng.m3u8
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1333854008_b1128000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -948,6 +948,21 @@ https://webui.vhls.ru.com/lb/premium72/index.m3u8
 #EXTVLCOPT:http-referrer=https://streamservice.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webui.vhls.ru.com/lb/premium72/index.m3u8
+
+#EXTINF:-1 tvg-id="orangesport.ro" tvg-logo="https://i.postimg.cc/XYzWv3qV/Orange-Sport-1-RO-logo.png" group-title="SPORTS",ORANGE SPORT 1
+#EXTVLCOPT:http-referrer=https://streamservice.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webui.vhls.ru.com/lb/premium439/index.m3u8
+
+#EXTINF:-1 tvg-id="orangesport2.ro" tvg-logo="https://i.postimg.cc/3RWt94HG/tv-station-orange-sport-2-1514.png" group-title="SPORTS",ORANGE SPORT 2
+#EXTVLCOPT:http-referrer=https://streamservice.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webui.vhls.ru.com/lb/premium440/index.m3u8
+
+#EXTINF:-1 tvg-id="orangesport3.ro" tvg-logo="https://i.postimg.cc/3RWt94HG/tv-station-orange-sport-2-1514.png" group-title="SPORTS",ORANGE SPORT 3
+#EXTVLCOPT:http-referrer=https://streamservice.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webui.vhls.ru.com/lb/premium441/index.m3u8
 
 WORLD
 
