@@ -69,7 +69,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1525611229_b
 http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mDBJXhhg/Round-Photo-Aug212022-073105.png" group-title="INDONESIA",TVRI SPORT
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="" tvg-logo="https://i.postimg.cc/wvr5tGKY/Round-Photo-Aug212022-073455.png" group-title="INDONESIA",MOJI TV
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/lokal/ochanneldukunetdahluapainnih.m3u8
@@ -635,7 +635,7 @@ https://webui.vhls.ru.com/lb/premium32/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d0h0vVqm/Round-Photo-Aug262022-010149.png" group-title="SPORTS",BT SPORT 3
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://zcri.vhls.ru.com/lb/premium33/index.m3u8
+https://webui.vhls.ru.com/lb/premium33/index.m3u8
 
 #EXTINF:-1 tvg-id="ArenaPremium1.rs" tvg-logo="https://i.postimg.cc/DwdZ2fC5/a2696.png" group-title="SPORTS",ARENA 1 PREMIUM
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
@@ -815,12 +815,12 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 #EXTINF:-1 tvg-id="RMCSport1.fr" tvg-logo="https://i.postimg.cc/7hZB0PZX/a1427.png" group-title="SPORTS",RMC SPORT 1
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://zcri.vhls.ru.com/lb/premium119/index.m3u8
+https://webui.vhls.ru.com/lb/premium119/index.m3u8
 
 #EXTINF:-1 tvg-id="RMCSport2.fr" tvg-logo="https://i.postimg.cc/YCRzfKTs/tv-station-rmc-sport-2-1428.png" group-title="SPORTS",RMC SPORT 2
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://zcri.vhls.ru.com/lb/premium120/index.m3u8
+https://webui.vhls.ru.com/lb/premium120/index.m3u8
 
 #EXTINF:-1 tvg-id="RMCSport3.fr" tvg-logo="https://i.postimg.cc/zGGgNLPx/tv-station-rmc-sport-3-1429.png" group-title="SPORTS",RMC SPORT 3
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/rmc3
@@ -857,7 +857,7 @@ https://zcri.vhls.ru.com/lb/premium66/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Y9vWzKkp/Round-Photo-Jul242022-091742.png" group-title="SPORTS",TVP SPORT
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://zcri.vhls.ru.com/lb/premium128/index.m3u8
+https://webui.vhls.ru.com/lb/premium128/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/yxTKGPGj/Round-Photo-Jul172022-030613.png" group-title="SPORTS",ESPN 1 SUR
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
@@ -925,9 +925,9 @@ https://webui.vhls.ru.com/lb/premium396/index.m3u8
 https://webui.vhls.ru.com/lb/premium383/index.m3u8
 
 #EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-logo="https://i.ibb.co/cF5CFB0/tv-station-ziggo-select-285-modified.png" group-title="SPORTS",ZIGGO SPORT SELECT
-#EXTVLCOPT:http-referrer=https://streamservice.click/
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://zcri.vhls.ru.com/lb/premium393/index.m3u8
+https://webui.vhls.ru.com/lb/premium393/index.m3u8
 
 #EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://i.ibb.co/SrTd4yV/tv-station-ziggo-voetbal-286-modified.png" group-title="SPORTS",ZIGGO SPORT VOTEBALL
 #EXTVLCOPT:http-referrer=https://streamservice.click/
