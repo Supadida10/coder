@@ -586,8 +586,8 @@ https://webui.vhls.ru.com/lb/premium62/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webui.vhls.ru.com/lb/premium63/index.m3u8
 
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.postimg.cc/t4gwkSqf/Round-Photo-Aug212022-201134.png" group-title="SPORTS",TENNIS CHANNEL
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id=".Channel.us" tvg-logo="https://i.postimg.cc/t4gwkSqf/Round-Photo-Aug212022-201134.png" group-title="SPORTS",TENNIS CHANNEL
+https://dai.google.com/linear/hls/pb/event/Dlqr46ybTSGWGTfRWcxS0g/stream/8ced585c-4f49-4c60-b82f-adbc0c7638ec:TPE2/master.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.postimg.cc/y899MB8S/Round-Photo-Aug212022-201415.png" group-title="SPORTS",ASTRO SUPERSPORT 1
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
