@@ -142,7 +142,7 @@ MOVIES & ENTERTAINMENT
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HLCfdpgc/Round-Photo-Sep082022-225416.png" group-title="MOVIES & ENTERTAINMENT",K+
-https://mdllogistik.my.id/tetes/redir.php?acesso=d608dfcb29c6c8fbd2681ded992cb58b&usuario=b1d6083cffd84b8ab16d046783930ef9
+https://nonton.site:8443/live/mustakim/mustakim/18.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
