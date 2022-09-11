@@ -355,10 +355,10 @@ https://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2j20jMM5/Round-Photo-Sep092022-002720.png" group-title="KNOWLEDGE",DISCOVERY ASIA
 https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HW25BMbC/Round-Photo-Jul092022-101943.png" group-title="KNOWLEDGE",LOVE  NATURE
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VknWNTzv/Round-Photo-Sep112022-041848.png" group-title="KNOWLEDGE",LOVE  NATURE
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/j58xJRnB/Round-Photo-Jul092022-102149.png" group-title="KNOWLEDGE",OUTSIDE TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/PqfyFykq/Round-Photo-Sep112022-042023.png" group-title="KNOWLEDGE",OUTSIDE TV
 https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fTYb8nGS/Round-Photo-Jul092022-102251.png" group-title="KNOWLEDGE",PEOPLE ARE AWESOME
@@ -587,9 +587,7 @@ https://webui.vhls.ru.com/lb/premium62/index.m3u8
 https://webui.vhls.ru.com/lb/premium63/index.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.postimg.cc/t4gwkSqf/Round-Photo-Aug212022-201134.png" group-title="SPORTS",TENNIS CHANNEL
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ad2017.vhls.ru.com/lb/premium40/index.m3u8
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.postimg.cc/y899MB8S/Round-Photo-Aug212022-201415.png" group-title="SPORTS",ASTRO SUPERSPORT 1
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
