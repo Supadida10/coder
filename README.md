@@ -29,7 +29,8 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.postimg.cc/pd6R3fbL/Round-Photo-Aug212022-065936.png" group-title="INDONESIA",INDOSIAR
-http://tvn.x10.mx/live/master.m3u8
+#EXTVLCOPT:http-user-agent=Edan
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/lokal/indosiar
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/sg2FyMJQ/Round-Photo-Aug212022-070413.png" group-title="INDONESIA",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w35916090_b744100_sleng.m3u8
@@ -72,6 +73,7 @@ http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb5
 http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="" tvg-logo="https://i.postimg.cc/wvr5tGKY/Round-Photo-Aug212022-073455.png" group-title="INDONESIA",MOJI TV
+#EXTVLCOPT:http-user-agent=Edan
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/lokal/ochanneldukunetdahluapainnih.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="jtv.id" tvg-logo="https://i.postimg.cc/65WRWK44/Round-Photo-Aug212022-073843.png" group-title="INDONESIA",JTV SBY
@@ -465,20 +467,23 @@ https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mp
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.postimg.cc/cHrZhWC1/Round-Photo-Aug262022-011808.png" group-title="SPORTS",CHAMPIONS TV 1
+#EXTVLCOPT:http-user-agent=babi
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/champ1etdahluapainnih
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.postimg.cc/x8D7mVb4/Round-Photo-Aug262022-011956.png" group-title="SPORTS",CHAMPIONS TV 2
+#EXTVLCOPT:http-user-agent=babi
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/champ2etdahluapainnih
 
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.postimg.cc/QxNmyMsq/Round-Photo-Aug262022-012129.png" group-title="SPORTS",CHAMPIONS TV 3
+#EXTVLCOPT:http-user-agent=babi
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/champ3etdahluapainnih
 
 #EXTINF:-1 tvg-id="UseeSports.dukun" tvg-logo="https://i.postimg.cc/dQNZJQr6/Round-Photo-Aug262022-012318.png" group-title="SPORTS", USEE SPORTS 1
-#EXTVLCOPT:http-user-agent=asade
+#EXTVLCOPT:http-user-agent=tailah
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/usee.m3u8
 
 #EXTINF:-1 tvg-id="UseeSports2.dukun" tvg-logo="https://i.postimg.cc/dQNZJQr6/Round-Photo-Aug262022-012318.png" group-title="SPORTS", USEE SPORTS 2
-#EXTVLCOPT:http-user-agent=asade
+#EXTVLCOPT:http-user-agent=tailah
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/usee2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -555,6 +560,7 @@ http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5461
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5458
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/J4kpKfZG/Round-Photo-Aug212022-200206.png" group-title="SPORTS",матч арена
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20101101 Firefox/31.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/matcharena
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FzZ3nxrC/Round-Photo-Aug212022-200335.png" group-title="SPORTS",матч
