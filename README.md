@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/qa/bein.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/mk/maxtvgo.mk.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/qa/bein.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/mk/maxtvgo.mk.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml"
 
 INDONESIA
 
@@ -57,7 +57,7 @@ https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="" tvg-logo="https://i.postimg.cc/SKDJR2BB/Round-Photo-Aug212022-072233.png" group-title="INDONESIA",NET TV
+#EXTINF:-1 tvg-id="NET.id" tvg-name="" tvg-logo="https://i.postimg.cc/SKDJR2BB/Round-Photo-Aug212022-072233.png" group-title="INDONESIA",NET TV
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="" tvg-logo="https://i.postimg.cc/fL1XWSXw/Round-Photo-Aug212022-072348.png" group-title="INDONESIA",CNN INDONESIA
@@ -76,7 +76,7 @@ http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTVLCOPT:http-user-agent=Edan
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/lokal/ochanneldukunetdahluapainnih.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="jtv.id" tvg-logo="https://i.postimg.cc/65WRWK44/Round-Photo-Aug212022-073843.png" group-title="INDONESIA",JTV SBY
+#EXTINF:-1 tvg-id="" tvg-name="JTV.id" tvg-logo="https://i.postimg.cc/65WRWK44/Round-Photo-Aug212022-073843.png" group-title="INDONESIA",JTV SBY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
@@ -88,7 +88,7 @@ https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="daaitv.id" tvg-name="" tvg-logo="https://i.postimg.cc/L4zwdtj6/Round-Photo-Aug212022-074642.png" group-title="INDONESIA",DAAI TV INDONESIA
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-name="" tvg-logo="https://i.postimg.cc/L4zwdtj6/Round-Photo-Aug212022-074642.png" group-title="INDONESIA",DAAI TV INDONESIA
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -137,10 +137,10 @@ https://v2.siar.us/aditv/livestream/playlist.m3u8
 
 MOVIES & ENTERTAINMENT
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6qL8b6tr/Round-Photo-Sep082022-225153.png" group-title="MOVIES & ENTERTAINMENT",KBS WORLD
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="" tvg-logo="https://i.postimg.cc/6qL8b6tr/Round-Photo-Sep082022-225153.png" group-title="MOVIES & ENTERTAINMENT",KBS WORLD
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HLCfdpgc/Round-Photo-Sep082022-225416.png" group-title="MOVIES & ENTERTAINMENT",K+
+#EXTINF:-1 tvg-id="KPlus.sg" tvg-name="" tvg-logo="https://i.postimg.cc/HLCfdpgc/Round-Photo-Sep082022-225416.png" group-title="MOVIES & ENTERTAINMENT",K+
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/hiburan/kplus.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -160,7 +160,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7YwFFPq5/Round-Photo-Sep082022-225950.png" group-title="MOVIES & ENTERTAINMENT",CINEMA WORLD
+#EXTINF:0 tvg-id="" tvg-name="CinemaWorld.my" tvg-logo="https://i.postimg.cc/7YwFFPq5/Round-Photo-Sep082022-225950.png" group-title="MOVIES & ENTERTAINMENT",CINEMA WORLD
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
