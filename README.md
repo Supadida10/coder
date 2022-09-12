@@ -478,11 +478,11 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 #EXTVLCOPT:http-user-agent=babi
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/champ3etdahluapainnih
 
-#EXTINF:-1 tvg-id="UseeSports.dukun" tvg-logo="https://i.postimg.cc/dQNZJQr6/Round-Photo-Aug262022-012318.png" group-title="SPORTS", USEE SPORTS 1
+#EXTINF:-1 tvg-id="UseeSports.id" tvg-logo="https://i.postimg.cc/dQNZJQr6/Round-Photo-Aug262022-012318.png" group-title="SPORTS", USEE SPORTS 1
 #EXTVLCOPT:http-user-agent=tailah
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/usee.m3u8
 
-#EXTINF:-1 tvg-id="UseeSports2.dukun" tvg-logo="https://i.postimg.cc/dQNZJQr6/Round-Photo-Aug262022-012318.png" group-title="SPORTS", USEE SPORTS 2
+#EXTINF:-1 tvg-id="UseeSports2.id" tvg-logo="https://i.postimg.cc/dQNZJQr6/Round-Photo-Aug262022-012318.png" group-title="SPORTS", USEE SPORTS 2
 #EXTVLCOPT:http-user-agent=tailah
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/usee2.m3u8
 
