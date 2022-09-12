@@ -790,7 +790,7 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-logo="https://i.postimg.cc/3r4zSgfR/Round-Photo-Aug212022-212052.png" group-title="SPORTS", SPORT TV +
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20101101 Firefox/31.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/sportplus
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/X761styH/Round-Photo-Aug212022-212324.png" group-title="SPORTS",SPORT TV 1
@@ -804,20 +804,22 @@ https://webui.vhls.ru.com/lb/premium49/index.m3u8
 https://webui.vhls.ru.com/lb/premium50/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/prTGc4QT/Round-Photo-Aug262022-010444.png" group-title="SPORTS",SPORT TV 3
-#EXTVLCOPT:http-referrer=https://jl5kp95va567gl.smokelearned.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://4mjk5peda70644.smokelearned.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20101101 Firefox/31.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/sport3
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/pdCBNkLn/a453.png" group-title="SPORTS",SPORT TV 4
-#EXTVLCOPT:http-referrer=https://jl5kp95va567gl.smokelearned.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://4mjk5peda70644.smokelearned.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20101101 Firefox/31.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/sport4
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/QtP1szGV/tv-station-sport-tv-5-454.png" group-title="SPORTS",SPORT TV 5
-#EXTVLCOPT:http-referrer=https://4mje600dsdlleg.smokelearned.net/
+#EXTVLCOPT:http-referrer=https://4mjk5peda70644.smokelearned.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20101101 Firefox/31.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/sport5
 
 #EXTINF:-1 tvg-id="SportTV6.pt" tvg-logo="https://i.postimg.cc/Sxq8jT1N/a2619.png" group-title="SPORTS",SPORT TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20101101 Firefox/31.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/sport6
 
 #EXTINF:-1 tvg-id="RMCSport1.fr" tvg-logo="https://i.postimg.cc/7hZB0PZX/a1427.png" group-title="SPORTS",RMC SPORT 1
