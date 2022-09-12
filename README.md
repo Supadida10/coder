@@ -139,7 +139,7 @@ MOVIES & ENTERTAINMENT
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HLCfdpgc/Round-Photo-Sep082022-225416.png" group-title="MOVIES & ENTERTAINMENT",K+
-https://nonton.site:8443/live/mustakim/mustakim/18.m3u8
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/hiburan/kplus.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -278,6 +278,11 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="OneTVAsia.sg" tvg-name="" tvg-logo="https://i.postimg.cc/CLwH87yQ/Round-Photo-Sep082022-235927.png" group-title="MOVIES & ENTERTAINMENT",ONE
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#EXTINF:0 tvg-id="GEMtv.sg" tvg-name="" tvg-logo="https://i.postimg.cc/HxtfdJJs/Round-Photo-Sep122022-205003.png" group-title="MOVIES & ENTERTAINMENT",GEM
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/hiburan/gem.m3u8
+
+
 
 KIDS
 
