@@ -974,10 +974,10 @@ https://webui.vhls.ru.com/lb/premium440/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://ad20171.vhls.ru.com/cdn/myfeed60/index.m3u8
 
-#EXTINF:-1 tvg-id="moviestarlaliga.es" tvg-logo="https://i.postimg.cc/ZRTWLv86/tv-station-movistar-laliga-1-1835.png" group-title="SPORTS",MOVIESTAR LALIGA 1
+#EXTINF:-1 tvg-id="moviestarlaliga.es" tvg-logo="https://i.postimg.cc/rwhyy8mq/Round-Photo-Sep132022-023211.png" group-title="SPORTS",LALIGA TV
 #EXTVLCOPT:http-referrer=https://leetcdn.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ad20171.vhls.ru.com/cdn/myfeed60/index.m3u8
+https://webui.vhls.ru.com/lb/premium539/index.m3u8
 
 WORLD
 
