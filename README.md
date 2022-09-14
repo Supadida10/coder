@@ -1205,4 +1205,42 @@ https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDrago
 https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 LIVE EVENT
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/pVY4p35D/Round-Photo-Sep042022-075358.png" group-title="LIVE EVENT",
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MZbYpGzL/Round-Photo-Sep132022-233658.png" group-title="LIVE EVENT",PREMIER LEAGUE 1
+https://etslive-2-vidio-com.akamaized.net/exp=1663171235~acl=/hls-p/ingest_9801_*/*~hmac=a6487dcdb4db69fc0a4f176d77242129a6f48d44213ceba0dc8f6fe6bd1bb32a/hls-p/ingest_9801_720p/index.m3u8?&m=1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MZbYpGzL/Round-Photo-Sep132022-233658.png" group-title="LIVE EVENT",PREMIER LEAGUE 2
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MZbYpGzL/Round-Photo-Sep132022-233658.png" group-title="LIVE EVENT",PREMIER LEAGUE 3
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MZbYpGzL/Round-Photo-Sep132022-233658.png" group-title="LIVE EVENT",PREMIER LEAGUE 4
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MZbYpGzL/Round-Photo-Sep132022-233658.png" group-title="LIVE EVENT",PREMIER LEAGUE 5
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d3LNz7fD/Round-Photo-Sep132022-234557.png" group-title="LIVE EVENT",LALIGA 1
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d3LNz7fD/Round-Photo-Sep132022-234557.png" group-title="LIVE EVENT",LALIGA 2
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d3LNz7fD/Round-Photo-Sep132022-234557.png" group-title="LIVE EVENT",LALIGA 3
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d3LNz7fD/Round-Photo-Sep132022-234557.png" group-title="LIVE EVENT",LALIGA 4
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d3LNz7fD/Round-Photo-Sep132022-234557.png" group-title="LIVE EVENT",LALIGA 5
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d3LNz7fD/Round-Photo-Sep132022-234557.png" group-title="LIVE EVENT",BUNDESLIGA 1
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/43H6k6fD/Round-Photo-Sep132022-234903.png" group-title="LIVE EVENT",BUNDESLIGA 2
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/43H6k6fD/Round-Photo-Sep132022-234903.png" group-title="LIVE EVENT",BUNDESLIGA 3
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/43H6k6fD/Round-Photo-Sep132022-234903.png" group-title="LIVE EVENT",BUNDESLIGA 4
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/43H6k6fD/Round-Photo-Sep132022-234903.png" group-title="LIVE EVENT",BUNDESLIGA 5
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKRXS9Vb/Round-Photo-Sep132022-235142.png" group-title="LIVE EVENT",LIGUE 1
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKRXS9Vb/Round-Photo-Sep132022-235142.png" group-title="LIVE EVENT",LIGUE 2
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKRXS9Vb/Round-Photo-Sep132022-235142.png" group-title="LIVE EVENT",LIGUE 3
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKRXS9Vb/Round-Photo-Sep132022-235142.png" group-title="LIVE EVENT",LIGUE 4
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKRXS9Vb/Round-Photo-Sep132022-235142.png" group-title="LIVE EVENT",LIGUE 5
