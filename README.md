@@ -846,7 +846,7 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 #EXTINF:-1 tvg-id="LFCTV.uk" tvg-logo="https://i.postimg.cc/VkzyxjsT/Round-Photo-Sep132022-012708.png" group-title="SPORTS",LFC TV
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/lfc
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VkJ9LhNb/Round-Photo-Sep132022-012906.png" group-title="",REAL MADRID TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VkJ9LhNb/Round-Photo-Sep132022-012906.png" group-title="SPORTS",REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/qBmChGSc/Round-Photo-Sep132022-013029.png" group-title="SPORTS",ESPN USA
@@ -1206,7 +1206,7 @@ https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 LIVE EVENT
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MZbYpGzL/Round-Photo-Sep132022-233658.png" group-title="LIVE EVENT",PREMIER LEAGUE 1
-https://etslive-2-vidio-com.akamaized.net/exp=1663171235~acl=/hls-p/ingest_9801_*/*~hmac=a6487dcdb4db69fc0a4f176d77242129a6f48d44213ceba0dc8f6fe6bd1bb32a/hls-p/ingest_9801_720p/index.m3u8?&m=1
+https://etslive-2-vidio-com.akamaized.net/exp=1663337294~acl=/hls-p/ingest_6685_*/*~hmac=40605f3c9c026c749492a30dc6b4828017575258aa8d23297e64180e9d4b2666/hls-p/ingest_6685_720p/index.m3u8?&m=1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MZbYpGzL/Round-Photo-Sep132022-233658.png" group-title="LIVE EVENT",PREMIER LEAGUE 2
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MZbYpGzL/Round-Photo-Sep132022-233658.png" group-title="LIVE EVENT",PREMIER LEAGUE 3
