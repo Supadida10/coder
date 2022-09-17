@@ -466,25 +466,20 @@ https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mp
 #EXTINF:-1 tvg-id="MNCSports3.id" tvg-logo="https://i.postimg.cc/4ys7nnw2/Round-Photo-Aug262022-011440.png" group-title="SPORTS",MNC SPORTS 3
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.postimg.cc/cHrZhWC1/Round-Photo-Aug262022-011808.png" group-title="SPORTS",CHAMPIONS TV 1
-#EXTVLCOPT:http-user-agent=babi
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/champ1etdahluapainnih
-
-#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.postimg.cc/x8D7mVb4/Round-Photo-Aug262022-011956.png" group-title="SPORTS",CHAMPIONS TV 2
-#EXTVLCOPT:http-user-agent=babi
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/champ2etdahluapainnih
-
-#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.postimg.cc/QxNmyMsq/Round-Photo-Aug262022-012129.png" group-title="SPORTS",CHAMPIONS TV 3
-#EXTVLCOPT:http-user-agent=babi
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/champ3etdahluapainnih
+#EXTINF:0 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title=" SPORTS",CHAMPIONS TV 1
+https://etus.link/ds_championtv
+#EXTINF:0 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="SPORTS",CHAMPIONS TV 2
+https://etus.link/ds_championtv2
+#EXTINF:0 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="SPORTS",CHAMPIONS TV 3
+https://etus.link/ds_championtv3
+#EXTINF:0 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="SPORTS",CHAMPIONS TV 4
+https://etus.link/ds_championtv4
 
 #EXTINF:-1 tvg-id="UseeSports.id" tvg-logo="https://i.postimg.cc/dQNZJQr6/Round-Photo-Aug262022-012318.png" group-title="SPORTS", USEE SPORTS 1
-#EXTVLCOPT:http-user-agent=tailah
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/usee.m3u8
+https://etus.link/useesport
 
 #EXTINF:-1 tvg-id="UseeSports2.id" tvg-logo="https://i.postimg.cc/dQNZJQr6/Round-Photo-Aug262022-012318.png" group-title="SPORTS", USEE SPORTS 2
-#EXTVLCOPT:http-user-agent=tailah
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/usee2.m3u8
+https://etus.link/useesport2  
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
