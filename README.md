@@ -1201,7 +1201,9 @@ https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 LIVE EVENT
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MZbYpGzL/Round-Photo-Sep132022-233658.png" group-title="LIVE EVENT",PREMIER LEAGUE 1
-https://s1.lucascd.com:8080/hls/do18.m3u8?md5=CUVfTDBcG9MEmO7jBeSb9w&expires=1663452155
+#EXTVLCOPT:http-referrer=https://vikistream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://s5.lucascd.com:8080/hls/do18.m3u8?md5=R6HWyCUQJ5lBXXSIijmlug&expires=1663452366
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MZbYpGzL/Round-Photo-Sep132022-233658.png" group-title="LIVE EVENT",PREMIER LEAGUE 2
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MZbYpGzL/Round-Photo-Sep132022-233658.png" group-title="LIVE EVENT",PREMIER LEAGUE 3
