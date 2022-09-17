@@ -1201,7 +1201,7 @@ https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 LIVE EVENT
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MZbYpGzL/Round-Photo-Sep132022-233658.png" group-title="LIVE EVENT",PREMIER LEAGUE 1
-https://etslive-2-vidio-com.akamaized.net/exp=1663337294~acl=/hls-p/ingest_6685_*/*~hmac=40605f3c9c026c749492a30dc6b4828017575258aa8d23297e64180e9d4b2666/hls-p/ingest_6685_720p/index.m3u8?&m=1
+https://460598949f82.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.726782747956.channel.qEs0MXIdt8Hw.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MZbYpGzL/Round-Photo-Sep132022-233658.png" group-title="LIVE EVENT",PREMIER LEAGUE 2
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MZbYpGzL/Round-Photo-Sep132022-233658.png" group-title="LIVE EVENT",PREMIER LEAGUE 3
