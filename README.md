@@ -493,7 +493,7 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1652512126~exp=9007200907253117~acl=/48eee16919834d3b97d
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/NFcFngtf/Round-Photo-Aug212022-211713.png" group-title="SPORTS",SUKAN
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b1296000_slENG.m3u8?id=4
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2496000_slENG.m3u8?id=4
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RZtQr1DV/Round-Photo-Aug212022-193116.png" group-title="SPORTS",BEIN PREMIUM 1 AR
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
@@ -1043,19 +1043,19 @@ http://61.19.242.134/feed/202105171329/chmono29/index.m3u8
 http://61.19.242.134/feed/202105171329/chamarin/index.m3u8
 
 #EXTINF:-1 tvg-id="RTMTV1.my" tvg-name="" tvg-logo="https://i.postimg.cc/28tRx4vk/Round-Photo-Aug212022-094819.png" group-title="WORLD",TV 1 MALAYSIA 
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b1296000_slENG.m3u8?id=1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2496000_slENG.m3u8?id=1
 
 #EXTINF:-1 tvg-id="RTMTV2.my" tvg-name="" tvg-logo="https://i.postimg.cc/mZd0bQmY/Round-Photo-Aug212022-095014.png" group-title="WORLD",TV 2 MALAYSIA 
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b1296000_slENG.m3u8?id=2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2496000_slENG.m3u8?id=2
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="" tvg-logo="https://i.postimg.cc/YCxPsYLL/Round-Photo-Aug212022-095218.png" group-title="WORLD",TV 3 MALAYSIA
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="RTMTVOkey.my" tvg-name="" tvg-logo="https://i.postimg.cc/8PxkC8Zm/Round-Photo-Aug212022-100442.png" group-title="WORLD",OKEY TV MALAYSIA
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b1296000_slENG.m3u8?id=3
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2496000_slENG.m3u8?id=3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mZCWScjC/Round-Photo-Aug212022-100805.png" group-title="WORLD",TV 6 MALAYSIA
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b1296000_slENG.m3u8?id=6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2496000_slENG.m3u8?id=6
 
 #EXTINF:-1 tvg-id="TV9.my" tvg-name="" tvg-logo="https://i.postimg.cc/j2ZXhQFR/Round-Photo-Aug212022-100957.png" group-title="WORLD",TV 9 MALAYSIA
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
@@ -1200,44 +1200,42 @@ https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDrago
 https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 LIVE EVENT
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MZbYpGzL/Round-Photo-Sep132022-233658.png" group-title="LIVE EVENT",PREMIER LEAGUE 1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cC0LCq0P/Round-Photo-Sep182022-032018.png" group-title="LIVE EVENT",LIVE EVENT 1
 #EXTVLCOPT:http-referrer=https://vikistream.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://s5.lucascd.com:8080/hls/do18.m3u8?md5=R6HWyCUQJ5lBXXSIijmlug&expires=1663452366
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MZbYpGzL/Round-Photo-Sep132022-233658.png" group-title="LIVE EVENT",PREMIER LEAGUE 2
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cC0LCq0P/Round-Photo-Sep182022-032018.png" group-title="LIVE EVENT",LIVE EVENT 2
+#EXTVLCOPT:http-referrer=https://vikistream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MZbYpGzL/Round-Photo-Sep132022-233658.png" group-title="LIVE EVENT",PREMIER LEAGUE 3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cC0LCq0P/Round-Photo-Sep182022-032018.png" group-title="LIVE EVENT",LIVE EVENT 3
+#EXTVLCOPT:http-referrer=https://vikistream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MZbYpGzL/Round-Photo-Sep132022-233658.png" group-title="LIVE EVENT",PREMIER LEAGUE 4
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cC0LCq0P/Round-Photo-Sep182022-032018.png" group-title="LIVE EVENT",LIVE EVENT 4
+#EXTVLCOPT:http-referrer=https://vikistream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MZbYpGzL/Round-Photo-Sep132022-233658.png" group-title="LIVE EVENT",PREMIER LEAGUE 5
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cC0LCq0P/Round-Photo-Sep182022-032018.png" group-title="LIVE EVENT",LIVE EVENT 5
+#EXTVLCOPT:http-referrer=https://vikistream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d3LNz7fD/Round-Photo-Sep132022-234557.png" group-title="LIVE EVENT",LALIGA 1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cC0LCq0P/Round-Photo-Sep182022-032018.png" group-title="LIVE EVENT",LIVE EVENT 6
+#EXTVLCOPT:http-referrer=https://vikistream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d3LNz7fD/Round-Photo-Sep132022-234557.png" group-title="LIVE EVENT",LALIGA 2
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cC0LCq0P/Round-Photo-Sep182022-032018.png" group-title="LIVE EVENT",LIVE EVENT 7
+#EXTVLCOPT:http-referrer=https://vikistream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d3LNz7fD/Round-Photo-Sep132022-234557.png" group-title="LIVE EVENT",LALIGA 3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cC0LCq0P/Round-Photo-Sep182022-032018.png" group-title="LIVE EVENT",LIVE EVENT 8
+#EXTVLCOPT:http-referrer=https://vikistream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d3LNz7fD/Round-Photo-Sep132022-234557.png" group-title="LIVE EVENT",LALIGA 4
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cC0LCq0P/Round-Photo-Sep182022-032018.png" group-title="LIVE EVENT",LIVE EVENT 9
+#EXTVLCOPT:http-referrer=https://vikistream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d3LNz7fD/Round-Photo-Sep132022-234557.png" group-title="LIVE EVENT",LALIGA 5
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d3LNz7fD/Round-Photo-Sep132022-234557.png" group-title="LIVE EVENT",BUNDESLIGA 1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/43H6k6fD/Round-Photo-Sep132022-234903.png" group-title="LIVE EVENT",BUNDESLIGA 2
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/43H6k6fD/Round-Photo-Sep132022-234903.png" group-title="LIVE EVENT",BUNDESLIGA 3
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/43H6k6fD/Round-Photo-Sep132022-234903.png" group-title="LIVE EVENT",BUNDESLIGA 4
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/43H6k6fD/Round-Photo-Sep132022-234903.png" group-title="LIVE EVENT",BUNDESLIGA 5
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKRXS9Vb/Round-Photo-Sep132022-235142.png" group-title="LIVE EVENT",LIGUE 1
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKRXS9Vb/Round-Photo-Sep132022-235142.png" group-title="LIVE EVENT",LIGUE 2
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKRXS9Vb/Round-Photo-Sep132022-235142.png" group-title="LIVE EVENT",LIGUE 3
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKRXS9Vb/Round-Photo-Sep132022-235142.png" group-title="LIVE EVENT",LIGUE 4
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKRXS9Vb/Round-Photo-Sep132022-235142.png" group-title="LIVE EVENT",LIGUE 5
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cC0LCq0P/Round-Photo-Sep182022-032018.png" group-title="LIVE EVENT",LIVE EVENT 10
+#EXTVLCOPT:http-referrer=https://vikistream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
