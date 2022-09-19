@@ -231,6 +231,12 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:0 tvg-id="WarnerTVSoutheastAsia.us" tvg-name="" tvg-logo="https://i.postimg.cc/Z5WF5gmr/Round-Photo-Sep082022-233013.png" group-title="MOVIES & ENTERTAINMENT",WARNER TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
+#EXTINF:0 tvg-id="rock.ent" tvg-name="" tvg-logo="https://i.postimg.cc/287nz3hd/Round-Photo-Sep192022-222833.png" group-title="MOVIES & ENTERTAINMENT",ROCK ENTERTAINMENT
+http://210.210.155.35/session/503304f8-dd96-11eb-82e0-c81f66f89318/dr9445/h/h16/index10.m3u8
+
+#EXTINF:0 tvg-id="rock.ext" tvg-name="" tvg-logo="https://i.postimg.cc/sxNxXdfr/Round-Photo-Sep192022-223206.png" group-title="MOVIES & ENTERTAINMENT",ROCK EXTREME
+http://210.210.155.35/session/8b784618-dd96-11eb-82e0-c81f66f89318/dr9445/h/h15/index10.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="ZeeBioskop.id" tvg-name="" tvg-logo="https://i.postimg.cc/g0kw0L81/Round-Photo-Sep082022-233150.png" group-title="MOVIES & ENTERTAINMENT",ZEE BIOSKOP
