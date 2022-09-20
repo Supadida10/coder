@@ -1195,6 +1195,9 @@ https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CzHLwZK/Round-Photo-Sep202022-164450.png" group-title="WORLD",CCTV 1 CHINA
 https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8?BR=md&region=shanghai
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zvNLcCP9/Round-Photo-Sep212022-053357.png" group-title="WORLD",CCTV 2 CHINA
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203602.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90N298sG/Round-Photo-Aug212022-125423.png" group-title="WORLD",ZHENJIANG TV CHINA
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 
