@@ -1198,6 +1198,15 @@ https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8?BR=md&region=shangh
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zvNLcCP9/Round-Photo-Sep212022-053357.png" group-title="WORLD",CCTV 2 CHINA
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203602.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g0R8t22L/Round-Photo-Sep212022-054958.png" group-title="WORLD",CCTV 3 CHINA
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203802.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RZWDFKgr/Round-Photo-Sep212022-055549.png" group-title="WORLD",CCTV 4 CHINA
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204802.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T3TnN6Wt/Round-Photo-Sep212022-060032.png" group-title="WORLD",CCTV 5+ CHINA
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204502.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90N298sG/Round-Photo-Aug212022-125423.png" group-title="WORLD",ZHENJIANG TV CHINA
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 
