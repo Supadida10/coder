@@ -1192,36 +1192,6 @@ https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mp
 #EXTINF:0 tvg-id="dubaione.ae" tvg-name="" tvg-logo="https://i.postimg.cc/7ZjLd6sg/Round-Photo-Aug212022-125239.png" group-title="WORLD",DUBAI ONE
 https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CzHLwZK/Round-Photo-Sep202022-164450.png" group-title="WORLD",CCTV 1 CHINA
-https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8?BR=md&region=shanghai
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zvNLcCP9/Round-Photo-Sep212022-053357.png" group-title="WORLD",CCTV 2 CHINA
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203602.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/g0R8t22L/Round-Photo-Sep212022-054958.png" group-title="WORLD",CCTV 3 CHINA
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203802.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RZWDFKgr/Round-Photo-Sep212022-055549.png" group-title="WORLD",CCTV 4 CHINA
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204802.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T3TnN6Wt/Round-Photo-Sep212022-060032.png" group-title="WORLD",CCTV 5+ CHINA
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204502.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VsTPDSjs/Round-Photo-Sep212022-160747.png" group-title="WORLD",CCTV 6 CHINA
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203302.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/JhwbqQh3/Round-Photo-Sep212022-161145.png" group-title="WORLD",CCTV 7 CHINA
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000510002.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/brL70JHb/Round-Photo-Sep212022-161516.png" group-title="WORLD",CCTV 8 CHINA
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203902.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hGj1hGh6/Round-Photo-Sep212022-161838.png" group-title="WORLD",CCTV 9 CHINA
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000499402.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/XN1SvsxY/Round-Photo-Sep212022-162451.png" group-title="WORLD",CCTV 10 CHINA
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203502.m3u8
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/90N298sG/Round-Photo-Aug212022-125423.png" group-title="WORLD",ZHENJIANG TV CHINA
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 
