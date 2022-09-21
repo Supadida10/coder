@@ -552,13 +552,13 @@ https://webui.vhls.ru.com/lb/premium96/index.m3u8
 https://webui.vhls.ru.com/lb/premium97/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BZhL8bz0/Round-Photo-Aug212022-195745.png" group-title="SPORTS",футбол 1
-http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5456
+https://ad2017.vhls.ru.com/lb/premium136/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/V62NR0Pr/Round-Photo-Aug212022-195904.png" group-title="SPORTS",футбол 2
-http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5461
+https://ad2017.vhls.ru.com/lb/premium137/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P58nWVr4/Round-Photo-Aug212022-200044.png" group-title="SPORTS",футбол 3
-http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5458
+https://ad2017.vhls.ru.com/lb/premium138/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/J4kpKfZG/Round-Photo-Aug212022-200206.png" group-title="SPORTS",матч арена
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20101101 Firefox/31.0
