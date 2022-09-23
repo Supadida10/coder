@@ -475,7 +475,7 @@ https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title=" SPORTS",CHAMPIONS TV 1
 https://etus.link/ds_championtv
 #EXTINF:0 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="SPORTS",CHAMPIONS TV 2
-https://production-drm-vidio-com-event-2.akamaized.net/out/v1/1964016968884f3abdae4722e26faeae/index.m3u8
+https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="SPORTS",CHAMPIONS TV 3
 https://etus.link/ds_championtv3
