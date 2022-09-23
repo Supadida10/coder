@@ -70,7 +70,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1525611229_b
 http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mDBJXhhg/Round-Photo-Aug212022-073105.png" group-title="INDONESIA",TVRI SPORT
-http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/tvrisport.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="" tvg-logo="https://i.postimg.cc/wvr5tGKY/Round-Photo-Aug212022-073455.png" group-title="INDONESIA",MOJI TV
 #EXTVLCOPT:http-user-agent=Edan
