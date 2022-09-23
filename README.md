@@ -632,10 +632,14 @@ http://quality-restream.com:8080/live/Millenium/61f8930b/157485.m3u8
 http://quality-restream.com:8080/live/Millenium/61f8930b/287793.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d0h0vVqm/Round-Photo-Aug262022-010149.png" group-title="SPORTS",BT SPORT 1
-http://116.204.149.11:8000/play/a00s/index.m3u8
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webui.vhls.ru.com/lb/premium31/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d0h0vVqm/Round-Photo-Aug262022-010149.png" group-title="SPORTS",BT SPORT 2
-http://116.204.149.11:8000/play/a006/index.m3u8
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://webui.vhls.ru.com/lb/premium32/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d0h0vVqm/Round-Photo-Aug262022-010149.png" group-title="SPORTS",BT SPORT 3
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
