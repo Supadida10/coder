@@ -2,6 +2,9 @@
 
 INDONESIA
 
+#EXTINF:-0 tvg-id="none.qe" tvg-name="" tvg-logo="https://i.postimg.cc/6pjYVcc5/logo-iptv.png" group-title="",IPTV INFORMATION
+https://media.publit.io/file/Information-iptv.mp4
+
 #EXTINF:-0 tvg-id="TVRINasional.id" tvg-name="" tvg-logo="https://i.postimg.cc/sXr34VpV/Round-Photo-Aug212022-064124.png" group-title="INDONESIA",TVRI NASIONAL
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2446503011668def857b1c03bafabba51
 
