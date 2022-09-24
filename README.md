@@ -1209,7 +1209,9 @@ https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 LIVE EVENT
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cC0LCq0P/Round-Photo-Sep182022-032018.png" group-title="LIVE EVENT",LIVE EVENT 1
-https://sv1.gdplayer.to/playlist/03a362f8432f9c98e7e0849d20281e66/97466d8549e0042b361985672adbca4c/master.m3u8?token=ZWx6b3FVYk0xWWNGWDlNOTdTSG0zdz09OjqmsZwDrtvh1aSFifP4nipO
+#EXTVLCOPT:http-referrer=https://emb.apl161.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://185.53.88.145:8080/hls/streama197314/index.m3u8?cst=d6ec0953de865a54cbdaf18986b746cf
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cC0LCq0P/Round-Photo-Sep182022-032018.png" group-title="LIVE EVENT",LIVE EVENT 2
 #EXTVLCOPT:http-referrer=https://vikistream.com/
