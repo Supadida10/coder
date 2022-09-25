@@ -511,9 +511,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b1296000_slENG.m3u8?i
 https://cdn.castmax.live/hls/streamhd98.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nzFPcSy1/Round-Photo-Aug212022-193334.png" group-title="SPORTS",BEIN PREMIUM 2 AR
-#EXTVLCOPT:http-referrer=https://castmax.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn.castmax.live/hls/streamhd99.m3u8
+https://cdn.castmax.live/hls/streamhd138.m3u8|referrer=https://castmax.live/
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qRgyB8vF/Round-Photo-Aug212022-193847.png" group-title="SPORTS",BEIN PREMIUM 3 AR
 #EXTVLCOPT:http-referrer=https://castmax.live/
