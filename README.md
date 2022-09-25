@@ -556,79 +556,85 @@ https://cdn.castmax.live/hls/streamhd96.m3u8
 https://cdn.castmax.live/hls/streamhd97.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BZhL8bz0/Round-Photo-Aug212022-195745.png" group-title="SPORTS",футбол 1
-https://ad2017.vhls.ru.com/lb/premium136/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTVLCOPT:http-referrer=https://castmax.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn.castmax.live/hls/streamhd136.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/V62NR0Pr/Round-Photo-Aug212022-195904.png" group-title="SPORTS",футбол 2
-https://ad2017.vhls.ru.com/lb/premium137/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTVLCOPT:http-referrer=https://castmax.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn.castmax.live/hls/streamhd137.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P58nWVr4/Round-Photo-Aug212022-200044.png" group-title="SPORTS",футбол 3
-https://ad2017.vhls.ru.com/lb/premium138/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTVLCOPT:http-referrer=https://castmax.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn.castmax.live/hls/streamhd138.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/J4kpKfZG/Round-Photo-Aug212022-200206.png" group-title="SPORTS",матч арена
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium157/index.m3u8
+https://cdn.castmax.live/hls/streamhd157.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FzZ3nxrC/Round-Photo-Aug212022-200335.png" group-title="SPORTS",матч
 https://bl.uma.media/live/407384/HLS/6307840_4/8/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1UK.uk" tvg-logo="https://i.postimg.cc/GpFkFKy5/Round-Photo-Aug262022-005814.png" group-title="SPORTS",EUROSPORT 1 UK
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium41/index.m3u8
+https://cdn.castmax.live/hls/streamhd41.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport2UK.uk" tvg-logo="https://i.postimg.cc/cJk8MzJT/Round-Photo-Aug262022-010025.png" group-title="SPORTS",EUROSPORT 2 UK
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium42/index.m3u8
+https://cdn.castmax.live/hls/streamhd42.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/G3WmZD8q/Round-Photo-Aug212022-200747.png" group-title="SPORTS",SPORTS TV TR
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.postimg.cc/Bv7m642Q/Round-Photo-Aug212022-194104.png" group-title="SPORTS",BEIN SPORT 1 ENG
-##EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium61/index.m3u8
+https://cdn.castmax.live/hls/streamhd61.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://i.postimg.cc/25WxzhjT/Round-Photo-Aug212022-194348.png" group-title="SPORTS",BEIN SPORT 2 ENG
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium62/index.m3u8
+https://cdn.castmax.live/hls/streamhd62.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://i.postimg.cc/262LmSW2/Round-Photo-Aug212022-194535.png" group-title="SPORTS",BEIN SPOR5 3 ENG
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium63/index.m3u8
+https://cdn.castmax.live/hls/streamhd63.m3u8
 
 #EXTINF:-1 tvg-id=".Channel.us" tvg-logo="https://i.postimg.cc/t4gwkSqf/Round-Photo-Aug212022-201134.png" group-title="SPORTS",TENNIS CHANNEL
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium40/index.m3u8
+https://cdn.castmax.live/hls/streamhd40.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.postimg.cc/y899MB8S/Round-Photo-Aug212022-201415.png" group-title="SPORTS",ASTRO SUPERSPORT 1
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium123/index.m3u8
+https://cdn.castmax.live/hls/streamhd123.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.postimg.cc/MXJZVk2h/Round-Photo-Aug212022-201554.png" group-title="SPORTS",ASTRO SUPERSPORT 2
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium124/index.m3u8
+https://cdn.castmax.live/hls/streamhd124.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.postimg.cc/j5WftJHv/Round-Photo-Aug212022-201727.png" group-title="SPORTS",ASTRO SUPERSPORT 3
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium125/index.m3u8
+https://cdn.castmax.live/hls/streamhd125.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.postimg.cc/y8Yk7ZB9/Round-Photo-Aug212022-201910.png" group-title="SPORTS",ASTRO SUPERSPORT 4
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium126/index.m3u8
+https://cdn.castmax.live/hls/streamhd126.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.postimg.cc/m26GFzC7/Round-Photo-Aug212022-202100.png" group-title="SPORTS",ASTRO SUPERSPORT 5
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium43/index.m3u8
+https://cdn.castmax.live/hls/streamhd43.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Px8yfqYb/Round-Photo-Aug212022-205033.png" group-title="SPORTS",ASTRO ARENA 1
 http://quality-restream.com:8080/live/Millenium/61f8930b/157485.m3u8
@@ -637,94 +643,94 @@ http://quality-restream.com:8080/live/Millenium/61f8930b/157485.m3u8
 http://quality-restream.com:8080/live/Millenium/61f8930b/287793.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d0h0vVqm/Round-Photo-Aug262022-010149.png" group-title="SPORTS",BT SPORT 1
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium31/index.m3u8
+https://cdn.castmax.live/hls/streamhd31.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d0h0vVqm/Round-Photo-Aug262022-010149.png" group-title="SPORTS",BT SPORT 2
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium32/index.m3u8
+https://cdn.castmax.live/hls/streamhd32.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/d0h0vVqm/Round-Photo-Aug262022-010149.png" group-title="SPORTS",BT SPORT 3
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium33/index.m3u8
+https://cdn.castmax.live/hls/streamhd33.m3u8
 
 #EXTINF:-1 tvg-id="ArenaPremium1.rs" tvg-logo="https://i.postimg.cc/DwdZ2fC5/a2696.png" group-title="SPORTS",ARENA 1 PREMIUM
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium134/index.m3u8
+https://cdn.castmax.live/hls/streamhd134.m3u8
 
 #EXTINF:-1 tvg-id="ArenaPremium2.rs" tvg-logo="https://i.postimg.cc/CLwMcpMq/a2697.png" group-title="SPORTS",ARENA 2 PREMIUM
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium135/index.m3u8
+https://cdn.castmax.live/hls/streamhd135.m3u8
 
 #EXTINF:-1 tvg-id="ArenaPremium3.rs" tvg-logo="https://i.postimg.cc/T3F6MzxQ/tv-station-rs-arena-premium-3-2698.png" group-title="SPORTS",ARENA 3 PREMIUM
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium139/index.m3u8
+https://cdn.castmax.live/hls/streamhd139.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-logo="https://i.postimg.cc/s2Y06qgM/tv-station-supersport-seven-297.png" group-title="SPORTS",SUPER SPORT LALIGA
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium415/index.m3u8
+https://cdn.castmax.live/hls/streamhd415.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://i.postimg.cc/WbZmwr33/tv-station-supersport-nine-299.png" group-title="SPORTS",SUPER SPORT PREMIER LEAGUE
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium414/index.m3u8
+https://cdn.castmax.live/hls/streamhd414.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportMaximo1.za" tvg-logo="https://i.postimg.cc/sg32XCXn/a301.png" group-title="SPORTS",SUPER SPORTS MAXIMO 1
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium572/index.m3u8
+https://cdn.castmax.live/hls/streamhd572.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-logo="https://i.postimg.cc/mZv7KZph/a665.png" group-title="SPORTS",SUPER SPORTS TENNIS
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium423/index.m3u8
+https://cdn.castmax.live/hls/streamhd423.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-logo="https://i.postimg.cc/zGXvc9NV/a291.png" group-title="SPORTS",SUPER SPORT VARIETY 1
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium416/index.m3u8
+https://cdn.castmax.live/hls/streamhd416.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-logo="https://i.postimg.cc/vBLdMZLM/tv-station-supersport-two-292.png" group-title="SPORTS",SUPER SPORT VARIETY 2
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium417/index.m3u8
+https://cdn.castmax.live/hls/streamhd417.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-logo="https://i.postimg.cc/bYLY7mwM/Round-Photo-Aug302022-210314.png" group-title="SPORTS",SUPER SPORT VARIETY 3
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium418/index.m3u8
+https://cdn.castmax.live/hls/streamhd418.m3u8
 
 #EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-logo="https://i.postimg.cc/9FbDmWFW/tv-station-supersport-four-294-1.png" group-title="SPORTS",SUPER SPORT VARIETY 4
-#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium419/index.m3u8
+https://cdn.castmax.live/hls/streamhd419.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.postimg.cc/Kvj2TFDc/Round-Photo-Aug302022-210540.png" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium130/index.m3u8
+https://cdn.castmax.live/hls/streamhd130.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.postimg.cc/g0DS4LGC/Round-Photo-Aug302022-210707.png" group-title="SPORTS",SKY SPORTS FOOTBALL
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium35/index.m3u8
+https://cdn.castmax.live/hls/streamhd35.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-logo="https://i.postimg.cc/fbPt4Zj8/Round-Photo-Aug302022-211618.png" group-title="SPORTS",SKY SPORTS RACING
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium554/index.m3u8
+https://cdn.castmax.live/hls/streamhd554.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.postimg.cc/BvccF0cX/Round-Photo-Sep132022-010001.png" group-title="SPORTS",SKY SPORTS F1
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium60/index.m3u8
+https://cdn.castmax.live/hls/streamhd60.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Z5hhY8f4/Round-Photo-Sep132022-010750.png" group-title="SPORTS",FOX SPORTS 1 MEXICO
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
@@ -751,29 +757,29 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FHNkdnGK/Round-Photo-Sep132022-012018.png" group-title="SPORTS",GOL TV
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium530/index.m3u8
+https://cdn.castmax.live/hls/streamhd530.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qvNVLp1D/a333.png" group-title="SPORTS",SPORT KLUB 1
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium101/index.m3u8
+https://cdn.castmax.live/hls/streamhd101.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T2scbGW3/tv-station-rs-sportklub-2-334.png" group-title="SPORTS",SPORT KLUB 2
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium102/index.m3u8
+https://cdn.castmax.live/hls/streamhd102.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FR7TtKJw/a335.png" group-title="SPORTS",SPORT KLUB 3
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium103/index.m3u8
+https://cdn.castmax.live/hls/streamhd103.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Zq08nMKd/a336.png" group-title="SPORTS",SPORT KLUB 4
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium104/index.m3u8
+https://cdn.castmax.live/hls/streamhd104.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
@@ -795,19 +801,14 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 #EXTINF:-1 tvg-id="SonyTen3.in" tvg-logo="https://i.postimg.cc/C5Qyq5dv/Round-Photo-Aug212022-210025.png" group-title="SPORTS",SONY TEN 3
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-logo="https://i.postimg.cc/3r4zSgfR/Round-Photo-Aug212022-212052.png" group-title="SPORTS", SPORT TV +
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20101101 Firefox/31.0
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/sportplus
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/X761styH/Round-Photo-Aug212022-212324.png" group-title="SPORTS",SPORT TV 1
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium49/index.m3u8
+https://cdn.castmax.live/hls/streamhd49.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qRrWw1Zh/Round-Photo-Aug262022-010342.png" group-title="SPORTS",SPORT TV 2
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium50/index.m3u8
+https://cdn.castmax.live/hls/streamhd50.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/prTGc4QT/Round-Photo-Aug262022-010444.png" group-title="SPORTS",SPORT TV 3
 #EXTVLCOPT:http-referrer=https://4mjk5peda70644.smokelearned.net/
@@ -824,19 +825,15 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20101101 Firefox/31.0
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/sport5
 
-#EXTINF:-1 tvg-id="SportTV6.pt" tvg-logo="https://i.postimg.cc/Sxq8jT1N/a2619.png" group-title="SPORTS",SPORT TV 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20101101 Firefox/31.0
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/sport6
-
 #EXTINF:-1 tvg-id="RMCSport1.fr" tvg-logo="https://i.postimg.cc/7hZB0PZX/a1427.png" group-title="SPORTS",RMC SPORT 1
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium119/index.m3u8
+https://cdn.castmax.live/hls/streamhd119.m3u8
 
 #EXTINF:-1 tvg-id="RMCSport2.fr" tvg-logo="https://i.postimg.cc/YCRzfKTs/tv-station-rmc-sport-2-1428.png" group-title="SPORTS",RMC SPORT 2
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium120/index.m3u8
+https://cdn.castmax.live/hls/streamhd120.m3u8
 
 #EXTINF:-1 tvg-id="RMCSport3.fr" tvg-logo="https://i.postimg.cc/zGGgNLPx/tv-station-rmc-sport-3-1429.png" group-title="SPORTS",RMC SPORT 3
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/rmc3
@@ -856,134 +853,109 @@ https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/qBmChGSc/Round-Photo-Sep132022-013029.png" group-title="SPORTS",ESPN USA
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium44/index.m3u8
+https://cdn.castmax.live/hls/streamhd44.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://i.postimg.cc/qBmChGSc/Round-Photo-Sep132022-013029.png" group-title="SPORTS",ESPN 2 USA
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium45/index.m3u8
+https://cdn.castmax.live/hls/streamhd45.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/130m6m4x/Round-Photo-Sep132022-013219.png" group-title="SPORTS",TUDN USA
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://zcri.vhls.ru.com/lb/premium66/index.m3u8
+https://cdn.castmax.live/hls/streamhd66.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/0yNv6YgS/Round-Photo-Sep132022-013341.png" group-title="SPORTS",TVP SPORT
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium128/index.m3u8
+https://cdn.castmax.live/hls/streamhd128.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBmChGSc/Round-Photo-Sep132022-013029.png" group-title="SPORTS",ESPN 1 SUR
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ad2017.vhls.ru.com/lb/premium149/index.m3u8
+https://cdn.castmax.live/hls/streamhd149.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBmChGSc/Round-Photo-Sep132022-013029.png" group-title="SPORTS",ESPN 2 SUR
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ad2017.vhls.ru.com/lb/premium150/index.m3u8
+https://cdn.castmax.live/hls/streamhd150.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://i.postimg.cc/c49jbPjK/tv-station-us-fox-sports-1-60.png" group-title="SPORTS",FOX SPORTS 1 US
-#EXTVLCOPT:http-referrer=https://vikistream.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://webui.vhls.ru.com/lb/premium39/index.m3u8
+#EXTVLCOPT:http-referrer=https://castmax.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn.castmax.live/hls/streamhd39.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://i.postimg.cc/1316s3bb/tv-station-us-fox-sports-2-61.png" group-title="SPORTS",FOX SPORTS 2 US
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium40/index.m3u8
+https://cdn.castmax.live/hls/streamhd40.m3u8
 
 #EXTINF:-1 tvg-id="PremierSports1.ie" tvg-logo="https://i.postimg.cc/HkTwbL3X/Round-Photo-Sep132022-013653.png" group-title="SPORTS",PREMIER SPORTS 1
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://ad2017.vhls.ru.com/lb/premium451/index.m3u8
+#EXTVLCOPT:http-referrer=https://castmax.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn.castmax.live/hls/streamhd451.m3u8
 
 #EXTINF:-1 tvg-id="PremierSports2.ie" tvg-logo="https://i.postimg.cc/xdhNpjGs/3e57f006-2741-4c20-a203-ed886782e698-premier-sports-2.png" group-title="SPORTS",PREMIER SPORTS 2
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://ad2017.vhls.ru.com/lb/premium550/index.m3u8
+#EXTVLCOPT:http-referrer=https://castmax.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn.castmax.live/hls/streamhd550.m3u8
 
 #EXTINF:-1 tvg-id="DAZN1Spain.uk" group-title="SPORTS" tvg-logo="https://i.postimg.cc/MZP2CcfK/Round-Photo-Sep132022-013913.png", DAZN 1
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ad2017.vhls.ru.com/lb/premium445/index.m3u8
+https://cdn.castmax.live/hls/streamhd445.m3u8
 
 #EXTINF:-1 tvg-id="DAZN2Spain.uk" group-title="SPORTS" tvg-logo="https://i.postimg.cc/MZP2CcfK/Round-Photo-Sep132022-013913.png", DAZN 2
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium446/index.m3u8
+https://cdn.castmax.live/hls/streamhd446.m3u8
 
 #EXTINF:-1 tvg-id="DAZN3Spain.uk" group-title="SPORTS" tvg-logo="https://i.postimg.cc/MZP2CcfK/Round-Photo-Sep132022-013913.png", DAZN 3
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium447/index.m3u8
+https://cdn.castmax.live/hls/streamhd447.m3u8
 
 #EXTINF:-1 tvg-id="DAZN4Spain.uk" group-title="SPORTS" tvg-logo="https://i.postimg.cc/MZP2CcfK/Round-Photo-Sep132022-013913.png", DAZN 4
-#EXTVLCOPT:http-referrer=https://streamservice.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium448/index.m3u8
+https://cdn.castmax.live/hls/streamhd448.m3u8
 
 #EXTINF:-1 tvg-id="DAZNF1.es" group-title="SPORTS" tvg-logo="https://i.postimg.cc/MZP2CcfK/Round-Photo-Sep132022-013913.png", DAZN F1
-#EXTVLCOPT:http-referrer=https://streamservice.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium537/index.m3u8
+https://cdn.castmax.live/hls/streamhd537.m3u8
 
 #EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-logo="https://i.postimg.cc/L56qnqm8/Round-Photo-Sep132022-014134.png" group-title="SPORTS",ZIGGO SPORT RACING
-#EXTVLCOPT:http-referrer=https://streamservice.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium396/index.m3u8
+https://cdn.castmax.live/hls/streamhd396.m3u8
 
 #EXTINF:-1 tvg-id="ZiggoSportDocu.nl" tvg-logo="https://i.postimg.cc/6pd9xWNj/a290.png" group-title="SPORTS",ZIGGO SPORTS DOCU
-#EXTVLCOPT:http-referrer=https://streamservice.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium383/index.m3u8
+https://cdn.castmax.live/hls/streamhd383.m3u8
 
 #EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-logo="https://i.postimg.cc/WtLQ5Zt2/images-65.png" group-title="SPORTS",ZIGGO SPORT SELECT
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium393/index.m3u8
+https://cdn.castmax.live/hls/streamhd393.m3u8
 
 #EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://i.postimg.cc/c47sV1WD/Round-Photo-Sep132022-014431.png" group-title="SPORTS",ZIGGO SPORT VOTEBALL
-#EXTVLCOPT:http-referrer=https://streamservice.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium398/index.m3u8
+https://cdn.castmax.live/hls/streamhd398.m3u8
 
 #EXTINF:-1 tvg-id="elevensport.pl" tvg-logo="https://i.postimg.cc/VNZj51NR/tv-station-eleven-sport-1-631.png" group-title="SPORTS",ELEVEN SPORT 1 POLAND
-#EXTVLCOPT:http-referrer=https://streamservice.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium71/index.m3u8
+https://cdn.castmax.live/hls/streamhd71.m3u8
 
 #EXTINF:-1 tvg-id="elevensport2.pl" tvg-logo="https://i.postimg.cc/7ZjNN07z/tv-station-pl-eleven-sports-2-633.png" group-title="SPORTS",ELEVEN SPORT 2 POLAND
-#EXTVLCOPT:http-referrer=https://streamservice.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium72/index.m3u8
-
-#EXTINF:-1 tvg-id="elevensport2.pl" tvg-logo="https://i.postimg.cc/7ZjNN07z/tv-station-pl-eleven-sports-2-633.png" group-title="SPORTS",ELEVEN SPORT 3 POLAND
-#EXTVLCOPT:http-referrer=https://streamservice.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium72/index.m3u8
-
-#EXTINF:-1 tvg-id="orangesport.ro" tvg-logo="https://i.postimg.cc/XYzWv3qV/Orange-Sport-1-RO-logo.png" group-title="SPORTS",ORANGE SPORT 1
-#EXTVLCOPT:http-referrer=https://streamservice.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium439/index.m3u8
-
-#EXTINF:-1 tvg-id="orangesport2.ro" tvg-logo="https://i.postimg.cc/3RWt94HG/tv-station-orange-sport-2-1514.png" group-title="SPORTS",ORANGE SPORT 2
-#EXTVLCOPT:http-referrer=https://streamservice.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium440/index.m3u8
-
-#EXTINF:-1 tvg-id="moviestarlaliga.es" tvg-logo="https://i.postimg.cc/ZRTWLv86/tv-station-movistar-laliga-1-1835.png" group-title="SPORTS",MOVIESTAR LALIGA 1
-#EXTVLCOPT:http-referrer=https://leetcdn.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ad20171.vhls.ru.com/cdn/myfeed60/index.m3u8
-
-#EXTINF:-1 tvg-id="moviestarlaliga.es" tvg-logo="https://i.postimg.cc/rwhyy8mq/Round-Photo-Sep132022-023211.png" group-title="SPORTS",LALIGA TV
-#EXTVLCOPT:http-referrer=https://leetcdn.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium539/index.m3u8
+https://cdn.castmax.live/hls/streamhd72.m3u8
 
 WORLD
 
