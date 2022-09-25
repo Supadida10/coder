@@ -506,54 +506,54 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b1296000_slENG.m3u8?id=4
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RZtQr1DV/Round-Photo-Aug212022-193116.png" group-title="SPORTS",BEIN PREMIUM 1 AR
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ad2017.vhls.ru.com/lb/premium98/index.m3u8
+https://cdn.castmax.live/hls/streamhd98.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nzFPcSy1/Round-Photo-Aug212022-193334.png" group-title="SPORTS",BEIN PREMIUM 2 AR
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium99/index.m3u8
+https://cdn.castmax.live/hls/streamhd99.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qRgyB8vF/Round-Photo-Aug212022-193847.png" group-title="SPORTS",BEIN PREMIUM 3 AR
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium100/index.m3u8
+https://cdn.castmax.live/hls/streamhd100.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.postimg.cc/Bv7m642Q/Round-Photo-Aug212022-194104.png" group-title="SPORTS",BEIN SPORT 1 AR
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-referrer=castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium91/index.m3u8
+https://cdn.castmax.live/hls/streamhd91.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2.qa" tvg-logo="https://i.postimg.cc/25WxzhjT/Round-Photo-Aug212022-194348.png" group-title="SPORTS",BEIN SPORT 2 AR
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium92/index.m3u8
+https://cdn.castmax.live/hls/streamhd92.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.postimg.cc/262LmSW2/Round-Photo-Aug212022-194535.png" group-title="SPORTS",BEIN SPORT 3 AR
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium93/index.m3u8
+https://cdn.castmax.live/hls/streamhd93.m3u8
 
 #EXTINF:-1 tvg-id="beINSports4.qa" tvg-logo="https://i.postimg.cc/8zNFFvbt/Round-Photo-Aug212022-194733.png" group-title="SPORTS",BEIN SPORT 4 AR
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium94/index.m3u8
+https://cdn.castmax.live/hls/streamhd94.m3u8
 
 #EXTINF:-1 tvg-id="beINSports5.qa" tvg-logo="https://i.postimg.cc/q7tpgBW1/Round-Photo-Aug212022-194931.png" group-title="SPORTS",BEIN SPORT 5 AR
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium95/index.m3u8
+https://cdn.castmax.live/hls/streamhd95.m3u8
 
 #EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://i.postimg.cc/g0KHXdR6/Round-Photo-Aug212022-195122.png" group-title="SPORTS",BEIN SPORT 6 AR
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium96/index.m3u8
+https://cdn.castmax.live/hls/streamhd96.m3u8
 
 #EXTINF:-1 tvg-id="beINSports7.qa" tvg-logo="https://i.postimg.cc/jdsw2Ncv/Round-Photo-Aug212022-195315.png" group-title="SPORTS",BEIN SPORT 7 AR
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTVLCOPT:http-referrer=https://castmax.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://webui.vhls.ru.com/lb/premium97/index.m3u8
+https://cdn.castmax.live/hls/streamhd97.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BZhL8bz0/Round-Photo-Aug212022-195745.png" group-title="SPORTS",футбол 1
 https://ad2017.vhls.ru.com/lb/premium136/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
